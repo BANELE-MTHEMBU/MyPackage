@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BanelePackage
 
 This is my first straightforward package for performing mathematics computations like summing digits etc, and also concatinating strings
@@ -28,7 +27,3 @@ print("The two strings combined yields: ",
 print("The string in reverse: ", strings.reverseString("Banele"))
 
 ```
-=======
-# MyPackage
-This is my first simple package
->>>>>>> 586fe51fbc57a8d90f4c111c04a0c288eae10c80
